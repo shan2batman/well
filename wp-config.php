@@ -30,13 +30,13 @@
 define('DB_NAME', $db);
 
 /** MySQL database username */
-define('DB_USER', $username);
+define('DB_USER', "shan");
 
 /** MySQL database password */
-define('DB_PASSWORD', $password);
+define('DB_PASSWORD', "shan12345");
 
 /** MySQL hostname */
-define('DB_HOST', $server);
+define('DB_HOST', "mysql://mysql:3306/");
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
