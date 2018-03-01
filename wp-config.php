@@ -18,12 +18,12 @@
  * @package WordPress
  */
 
-$url=parse_url(getenv("CLEARDB_DATABASE_URL"));
 
-  $server = $url["host"];
-  $username = $url["user"];
-  $password = $url["pass"];
-  $db = substr($url["path"],1);
+
+
+
+
+
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
